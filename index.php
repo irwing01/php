@@ -1,2 +1,2 @@
 <?php
-echo 'Meu primeiro codigo PHP /<strong> Hello Word !! </strong>';
+echo 'Meu primeiro codigo PHP /<strong> Olá Mundo !! </strong>';
